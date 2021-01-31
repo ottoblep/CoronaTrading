@@ -6,7 +6,7 @@ FAQ [link](https://core.telegram.org/bots/faq)
 2. Install required Libraries
 3. Compile and run the Bot. 
 
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](a)
+![alt text](b)
+![alt text](c)
 
