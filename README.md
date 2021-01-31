@@ -6,7 +6,7 @@ FAQ [link](https://core.telegram.org/bots/faq)
 2. Install required Libraries
 3. Compile and run the Bot. 
 
-![alt text](a)
-![alt text](b)
-![alt text](c)
+![alt text](https://raw.githubusercontent.com/ottoblep/CoronaTrading/main/example1.PNG)
+![alt text](https://raw.githubusercontent.com/ottoblep/CoronaTrading/main/example2.PNG)
+![alt text](https://raw.githubusercontent.com/ottoblep/CoronaTrading/main/example3.PNG)
 
